@@ -7,6 +7,6 @@ Minestra verdure
 * cipolle
 * patate
 * carote
-
+* fagioli
 
 
