@@ -8,3 +8,4 @@ elkenco reicette
 * spaghetti
 * pennette alla carbonara 
 * minestrone
+* salmone
