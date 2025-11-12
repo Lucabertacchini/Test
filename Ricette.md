@@ -1,4 +1,8 @@
 @ Ricette Luca
 
-*spaghetti
+## Ingredienti
+
 * risotto ai funghi
+* spaghetti
+* pennette alla carbonara 
+
