@@ -1,9 +1,11 @@
-# Minestrone
+# minestrone verdure
 
-minestra di verdure
+Minestra verdure
 
-## Ingredienti
+## ingedienti
 
-Cipolle
-patate
-carote
+* cipolle
+* patate
+* carote
+* fagioli
+

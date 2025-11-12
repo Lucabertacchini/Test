@@ -5,4 +5,4 @@
 * risotto ai funghi
 * spaghetti
 * pennette alla carbonara 
-
+* minestrone
