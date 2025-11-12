@@ -5,4 +5,4 @@ Le famose pennette
 ## ingredienti
 
 Pennette
-pancetta
+pancettaguanciale
