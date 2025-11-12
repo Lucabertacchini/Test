@@ -1,3 +1,4 @@
 @ Ricette Luca
 
-*spaghetti
+* spaghetti
+* pennette alla carbonara 
